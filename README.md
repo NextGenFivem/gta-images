@@ -11,4 +11,4 @@ This repository contains a collection of images for all peds (pedestrian models)
 To include an image of a specific ped in your project, you can use the following code example:
 
 ```html
-<img src="https://nextgenfivem.github.io/gta-images/images/peds/PEDMODELNAME.webp" alt="VILDSVINJÄVL" >
+<img src="https://nextgenfivem.github.io/gta-images/images/peds/a_c_boar.webp" alt="VILDSVINJÄVL" >
