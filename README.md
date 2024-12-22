@@ -3,7 +3,7 @@
 This repository contains a collection of images for all peds (pedestrian models) available in GTA 5. The images are organized to help developers and players easily identify and utilize peds in their FiveM servers or other GTA 5-related projects.
 
 ## Features
-- High-quality images of all GTA 5 peds.
+- Using .webp for performance improvement.
 - Organized and easily accessible.
 - Ideal for FiveM developers, modders, and enthusiasts.
 
