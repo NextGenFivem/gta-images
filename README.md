@@ -34,4 +34,4 @@ Your contributions are highly valued!
 To integrate a ped image into your project, you can use the example below. Be sure to adjust the `src` URL to match your specific image path:  
 
 ```html
-<img src="https://nextgenfivem.github.io/gta-images/images/peds/a_c_boar.webp" alt="Boar Ped Image">
+<img src="https://gta.ohlson.dev/images/peds/a_c_boar.webp" alt="Boar Ped Image">
