@@ -10,8 +10,8 @@ This repository contains a collection of images in GTA 5. The images are organiz
 ### Build: 3323 (Bottom Dollar Bounties)
 
 ## Usage
-To include an image of a specific image in your project, you can use the following code example:
+Change the url to fit your needs.
 
-This is an example on how to implement a ped. Change the url to fit your needs.
+To include an image of a specific image in your project, you can use the following code example on how to implement a ped:
 ```html
 <img src="https://nextgenfivem.github.io/gta-images/images/peds/a_c_boar.webp" alt="VILDSVINJÄVL" >
