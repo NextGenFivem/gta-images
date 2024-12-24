@@ -22,10 +22,9 @@ Your contributions are highly valued!
 
 ---
 
-## 📦 Versions  
+## 📦 Version
 
-- **Peds**: Version `b3323` (Bottom Dollar Bounties update)  
-- **Vehicles**: Version `b3407` (Agents of Sabotage update)  
+- The images are from `b3407` (Agents of Sabotage)
 
 ---
 
