@@ -1,6 +1,8 @@
 # GTA 5 Image Repository
 
-This repository hosts a curated collection of images from GTA 5, designed to assist developers and players in identifying and utilizing **peds** and **vehicles** for their FiveM servers or other GTA 5-related projects.
+
+This repository hosts a comprehensive and ever-growing collection of curated images from GTA 5. 
+Designed with versatility in mind, it serves as a valuable resource for developers and players, streamlining the process of identifying and integrating assets into FiveM servers or other GTA 5-related projects.
 
 ---
 
